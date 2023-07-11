@@ -1,0 +1,264 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+/* header styels starts here */
+.header-sec {
+    background-color: #E554731A;
+
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 97px;
+    margin-left: 240px;
+
+}
+
+.header-pic {
+    width: 635px;
+    height: 700px;
+
+}
+
+
+.header-title {
+    color: #272727;
+    font-size: 45px;
+    font-weight: 800;
+    width: 400px;
+
+}
+
+.header-dis {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 32px;
+}
+
+.btn-prime {
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 20px 43px;
+    margin-top: 32px;
+}
+
+/* header styles ends here */
+/* feature section starts here */
+.feat-heading {
+    text-align: center;
+    margin-top: 170px;
+}
+
+.feat-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.feat-dis {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.box {
+    background-color: #A7216226;
+    width: 470px;
+    height: 430px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 0px;
+}
+
+.box-cover {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 240px;
+    margin-right: 240px;
+    gap: 30px;
+}
+
+.flower-name {
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    margin-top: 30px;
+}
+
+/* feature sections ends here */
+/* deal styles starts here */
+.deal {
+    background-color: #E554730D;
+}
+
+.deal-container {
+    display: flex;
+    justify-content: space-around;
+
+    height: 620px;
+    flex-shrink: 0;
+    margin-top: 100px;
+    align-items: center;
+}
+
+.deal-pic {
+    margin-right: 470px;
+}
+
+.deal-info {
+    text-align: center;
+    margin-left: 200px;
+}
+
+.deal-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.deal-dis {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+/* deal style ends here */
+/* insta styles starts here */
+.insta {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.insta-pic-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 25px;
+    border: none;
+    padding: 30px;
+    align-items: center;
+
+}
+
+.instu {
+    width: 100%;
+    height: 100%;
+}
+
+.insta-pic {
+    width: 19%;
+}
+
+/* insta styles ends her */
+/* background section starts here */
+#background {
+    background-image: url('../FlowerAsset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    margin: auto;
+    width: 1100px;
+    height: 400px;
+    text-align: center;
+    display: block;
+    align-items: center;
+    padding-top: 130px;
+}
+
+.input {
+    width: 700px;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 7px;
+}
+
+.back-header {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.back-dis {
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 17px;
+    margin-bottom: 45px;
+}
+
+/* background sections ends here */
+.review-title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.review-dis {
+    text-align: center;
+    font-size: 17px;
+    font-weight: bolder;
+    color: #272727;
+}
+
+.cmt-container {
+    display: flex;
+    margin-left: 170px;
+    margin-top: 40px;
+    gap: 10px;
+}
+
+.cmt-pic {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.cmt-time {
+    color: #27272799;
+}
+
+.cmt-dis {
+    font-size: 17px;
+    font-weight: bolder;
+    color: #272727;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    height: 350px;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 150px;
+}
+
+.footer-head {
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.footer-dis {
+    font-size: 15px; 
+    font-weight: 200px;
+    margin-bottom: 10px;
+}
+#foot{
+    color: #E55473;
+}
